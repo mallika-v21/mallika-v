@@ -100,7 +100,7 @@ With hands-on experience in **enterprise systems, process modelling, and BI repo
 ---
 
 ## 🏅 Certifications  
-🏷️ Certified Business Analyst  (https://pdf.credential.net/03r8veze_1682343859827.pdf) 
+🏷️ [![Certified Business Analyst](https://img.shields.io/badge/Certified_BA-blue?style=for-the-badge&logo=databricks)](https://pdf.credential.net/03r8veze_1682343859827.pdf)
 🏷️ Tableau Data Visualization  
 🏷️ Data Analysis & Visualization  
 🏷️ Python for Data Science  
