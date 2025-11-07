@@ -63,34 +63,7 @@ With hands-on experience in **enterprise systems, process modelling, and BI repo
 - 🎨 Built **interactive UX/UI prototype** for users to explore cuisine similarities.  
 **Tools:** Python · R · Orange · Tableau · JustInMind  
 **Impact:** Demonstrated data-driven food analytics through AI and visualization.
-
----
-
-### 🌍 **RMIT Global Business Innovation Program – Spain Study Tour** *(Jun 2025 – Jul 2025)*  
-**Role:** Student Ambassador | *Barcelona & Madrid, Spain*  
-- 🤝 Collaborated with global peers on sustainability and innovation challenges with **Indra, Acciona, T-Systems**, and the **Australian Embassy**.  
-- 🌎 Participated in workshops at **TBS School of Business**, co-developing business solutions for the *“Social Innovation with Impact”* challenge.  
-**Focus Areas:** ESG · Smart Cities · Circular Economy · Innovation Ecosystems  
-**Impact:** Strengthened cross-cultural collaboration and global leadership experience.
-
----
-
-### 💗 **BreastScreen Victoria – Public Health Innovation Project** *(Sep 2024)*  
-**Role:** Student Business Intern | *Melbourne, Australia*  
-- 💬 Conducted stakeholder interviews to address barriers in breast screening participation among **CALD communities**.  
-- 🌸 Applied **design thinking** and developed inclusive engagement frameworks.  
-- 💡 Delivered recommendations emphasizing human-centered design and measurable impact.  
-**Tools:** Miro · Canva · PowerPoint  
-**Impact:** Improved outreach strategies for equitable healthcare participation.
-
----
-
-### 💼 **RMIT Business Systems & Analytics – Peer Mentoring** *(Mar 2024 – Mar 2025)*  
-**Role:** Mentor | *Melbourne, Australia*  
-- 👩‍🏫 Mentored students in **Business Systems Analysis, Business Analytics, and Project Management**.  
-- 💬 Guided them through **UML diagrams, business reports, and dashboards**, providing constructive feedback.  
-**Impact:** Developed analytical and teamwork skills among 50+ mentees through academic and practical mentorship.
-
+  
 ---
 
 ## 🎓 Education  
@@ -108,7 +81,7 @@ With hands-on experience in **enterprise systems, process modelling, and BI repo
 
 🏷️ [![Python for Data Science](https://img.shields.io/badge/Python_Data_Science-purple?style=for-the-badge&logo=python)](https://linkedin.com/learning/certificate/yourlink)
 
-🏷️ ADVC LT&Q Merit Award (RMIT)  
+🏷️ [![ADVC LT&Q Merit Award (RMIT)](https://img.shields.io/badge/ADVC_LT&Q_Merit_Award-red?style=for-the-badge&logo=medal)](https://www.linkedin.com/in/mallika-v/details/certifications/1760413810881/single-media-viewer/?profileId=ACoAADTxjzoBMPKLquPunoR3Ku9Wkfb1Ab4OdBw)
 
 ---
 
