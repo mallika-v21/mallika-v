@@ -81,7 +81,7 @@ With hands-on experience in **enterprise systems, process modelling, and BI repo
 
 🏷️ [![Python for Data Science](https://img.shields.io/badge/Python_Data_Science-purple?style=for-the-badge&logo=python)](https://linkedin.com/learning/certificate/yourlink)
 
-🏷️ [![ADVC LT&Q Merit Award (RMIT)](https://img.shields.io/badge/RMIT-ADVC_LT%26Q_Merit_Award-E61B23?style=for-the-badge&logo=graduation-cap)](https://www.linkedin.com/in/mallika-v/details/certifications/1760413810881/single-media-viewer/?profileId=ACoAADTxjzoBMPKLquPunoR3Ku9Wkfb1Ab4OdBw)
+🏷️ [![ADVC LT&Q Merit Award (RMIT)](https://img.shields.io/badge/RMIT_ADVC_LT%26Q_Merit_Award-E61B23?style=for-the-badge&logo=graduation-cap)](https://www.linkedin.com/in/mallika-v/details/certifications/1760413810881/single-media-viewer/?profileId=ACoAADTxjzoBMPKLquPunoR3Ku9Wkfb1Ab4OdBw)
 
 ---
 
