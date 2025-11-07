@@ -100,7 +100,7 @@ With hands-on experience in **enterprise systems, process modelling, and BI repo
 ---
 
 ## 🏅 Certifications  
-🏷️ Certified Business Analyst  
+🏷️ Certified Business Analyst  (https://pdf.credential.net/03r8veze_1682343859827.pdf) 
 🏷️ Tableau Data Visualization  
 🏷️ Data Analysis & Visualization  
 🏷️ Python for Data Science  
@@ -112,7 +112,7 @@ With hands-on experience in **enterprise systems, process modelling, and BI repo
 🌿 Business Systems Innovation & BI Strategy  
 🌎 Sustainability & Circular Economy  
 📊 Data Storytelling for Decision-Making  
-🪷 Fragrance · Art · Mindful Entrepreneurship  
+🪷 Fragrance · Art · Pilates . Yoga  
 
 ---
 
