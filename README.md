@@ -102,11 +102,11 @@ With hands-on experience in **enterprise systems, process modelling, and BI repo
 ## 🏅 Certifications  
 🏷️ [![Certified Business Analyst](https://img.shields.io/badge/Certified_BA-blue?style=for-the-badge&logo=databricks)](https://pdf.credential.net/03r8veze_1682343859827.pdf)
 
-🏷️ [![Tableau Data Visualization](https://img.shields.io/badge/Tableau-Data_Visualization-orange?style=for-the-badge&logo=tableau)](https://certificates.simplicdn.net/share/4140241.pdf)  
+🏷️ [![Tableau Data Visualization](https://img.shields.io/badge/Tableau_Data_Visualization-orange?style=for-the-badge&logo=tableau)](https://certificates.simplicdn.net/share/4140241.pdf)  
 
-🏷️ [![Data Analysis & Visualization](https://img.shields.io/badge/Data_Analysis-Data_Visualization-yellow?style=for-the-badge&logo=tableau)](https://certificates.simplicdn.net/share/4252224.pdf)
+🏷️ [![Data Analysis & Visualization](https://img.shields.io/badge/Data_Analysis_Data_Visualization-yellow?style=for-the-badge&logo=tableau)](https://certificates.simplicdn.net/share/4252224.pdf)
 
-🏷️ [![Python for Data Science](https://img.shields.io/badge/Python-Data_Science-purple?style=for-the-badge&logo=python)](https://linkedin.com/learning/certificate/yourlink)
+🏷️ [![Python for Data Science](https://img.shields.io/badge/Python_Data_Science-purple?style=for-the-badge&logo=python)](https://linkedin.com/learning/certificate/yourlink)
 
 🏷️ ADVC LT&Q Merit Award (RMIT)  
 
