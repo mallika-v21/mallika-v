@@ -1,4 +1,4 @@
-# 🌿 Hi, I'm **Mallika Vaddi!** ✨  
+# 🌿 Hi, I'm **Mallika!** ✨  
 💼 *Business Analyst | Data Visualization | Sustainability & Innovation*
 
 ---
